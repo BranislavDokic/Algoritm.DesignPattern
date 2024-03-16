@@ -1,0 +1,15 @@
+C:\GymNoteFile\OODesign\OODesign\bin\Debug\net8.0\OODesign.exe
+C:\GymNoteFile\OODesign\OODesign\bin\Debug\net8.0\OODesign.deps.json
+C:\GymNoteFile\OODesign\OODesign\bin\Debug\net8.0\OODesign.runtimeconfig.json
+C:\GymNoteFile\OODesign\OODesign\bin\Debug\net8.0\OODesign.dll
+C:\GymNoteFile\OODesign\OODesign\bin\Debug\net8.0\OODesign.pdb
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.AssemblyInfoInputs.cache
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.AssemblyInfo.cs
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.csproj.CoreCompileInputs.cache
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.sourcelink.json
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.dll
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\refint\OODesign.dll
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.pdb
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\OODesign.genruntimeconfig.cache
+C:\GymNoteFile\OODesign\OODesign\obj\Debug\net8.0\ref\OODesign.dll
